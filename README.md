@@ -44,6 +44,7 @@ Here are some of the best resources I studied from:
 - [ECMA Script Language Specification](https://tc39.es/ecma262/)
 - [JavaScript Visualiser 9000](https://www.jsv9000.app/)
 
+<!---
 ## 📬 Connect with Me  
   
 <div align="center">
@@ -53,6 +54,7 @@ Here are some of the best resources I studied from:
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/vishalkapgate)
 
 </div>
+-->
 
 ## 🤝 Contributing
 Contributions are welcome!  
